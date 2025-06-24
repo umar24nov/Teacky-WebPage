@@ -50,7 +50,7 @@ body {
 }
 
 .hero {
-  background-image: url("/Teacky-WebPage/Images/wallpaperfigma.jpg");
+  background-image: url("Images/wallpaperfigma.jpg");
   width: 1440;
   height: 864;
   top: -18px;
